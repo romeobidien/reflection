@@ -1,0 +1,6 @@
+
+*What happens when you initialize repository?Why do you need to do it?
+you do this when you need a repository of your own and work offline
+
+*how is the staging area different from the working directory and the repository? What value do you think it offers?
+     it like an intermidiate place where you can put you file in and out  before commit
