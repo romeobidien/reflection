@@ -10,3 +10,6 @@ you do this when you need a repository of your own and work offline
 *what are some situations when branches would be helpful in keeping your history organized? Hwo would branches help?
       first, I think that it makes you more adventurous,  and more confident in making new changes, creating new features without worrying to switch back and ford.
       second, I need to think
+
+*How do the diagrams help you visualize the branch structure?
+     it shows what commit of each branch by chronological 
