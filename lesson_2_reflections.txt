@@ -13,3 +13,6 @@ you do this when you need a repository of your own and work offline
 
 *How do the diagrams help you visualize the branch structure?
      it shows what commit of each branch by chronological 
+
+*What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+      the outcome of merging two branches is a commit which combine the modify in two branches
