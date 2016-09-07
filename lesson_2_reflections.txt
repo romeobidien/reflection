@@ -16,3 +16,27 @@ you do this when you need a repository of your own and work offline
 
 *What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
       the outcome of merging two branches is a commit which combine the modify in two branches
+
+*What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+     you don't have to check it time to time, but it may be not the way you want
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
